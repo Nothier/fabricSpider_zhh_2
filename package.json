@@ -1,0 +1,8 @@
+{
+  "name": "fabricSpider_zhh_2",
+  "version": "1.0.0",
+  "author": "zhh",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
